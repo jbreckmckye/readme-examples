@@ -59,16 +59,4 @@ Example:
 
 ## API
 
-Here you might list the routes of your webservice.
-
-### GET /health
-
-Heartbeat route for AWS. Should always return HTTP 200
-
-### GET /tree/:id
-
-Request JSON for your favourite species of tree. Returns a `TreeSpeciesMetadata`.
-
-### GET /
-
-Test splash page.
+[Link to Swagger UI]
